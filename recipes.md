@@ -51,6 +51,7 @@ Instructions:
 
 Ingredients:
 - 1 pound spaghetti
+- 1 pound uranium
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
